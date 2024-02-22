@@ -1,0 +1,19 @@
+Brandon Foley
+brfoley@chapman.edu
+CPSC 350 - Rene German
+
+Project Title: MP1 Robber Language Translation
+
+Overview:
+MP1's goal is to translate english words from a txt file into the robber Language then into a html file.
+
+Commands to Execute:
+    g++ *.cpp -o main
+    ./main
+
+Sources:
+    C++ IO:
+        https://www.geeksforgeeks.org/file-handling-c-classes/
+
+    HTML help:
+        https://html.com/#Creating_Your_First_HTML_Webpage
